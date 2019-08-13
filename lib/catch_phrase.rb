@@ -1,6 +1,6 @@
  phrase = "catch_phrase"
  
- def catch_phrase(phrase)
+ def catch_phrase
 phrase = "catch_phrase"
 puts "catch_phrase"
 end
